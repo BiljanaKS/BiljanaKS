@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BiljanaKS
+- 👋 Hi, I’m Biljana
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development Technologies
 - 💞️ I’m looking to collaborate on Projects
